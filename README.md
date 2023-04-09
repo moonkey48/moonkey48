@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=white"/>
 </div>
 <div align=center>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonkey48&&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonkey48&&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br/>
 
 ### 📖 Algorithm
-<div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)<br/>
-</div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)<br/>
+
 
 ### 📖 Github Status
 <div align=center>
