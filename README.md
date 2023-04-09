@@ -24,8 +24,11 @@
 <h2 align=center>
   📖 Algorithm
 </h2> 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
+
 <br/>
+
 
 <h2 align=center>
   📖 Github Status  
