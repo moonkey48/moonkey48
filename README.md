@@ -2,14 +2,14 @@
   
 # Query everyday
 ### Hello, I'm Seungui Moon  
-    
+
+<br/>
   
 
 
 
-
-
-### 🔫 Skills
+### 🔫 Skills  
+  
 <div align=center>
   
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -26,10 +26,7 @@
 
 
 
-<h2 align=center>
-  💡 Algorithm
-</h2> 
-
+### 💡 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
 
