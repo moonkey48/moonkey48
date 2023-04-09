@@ -20,18 +20,21 @@
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=white"/>
 </div>
 <br/>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonkey48&&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
 ### 💡 Algorithm
 <br/>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
 
 <br/><br/>
 
 ### 📜Github Status  
 <br/>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonkey48)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
   
