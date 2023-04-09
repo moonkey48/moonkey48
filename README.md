@@ -14,4 +14,4 @@ have a nice day 🙌
 
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=white"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=moonkey48)](https://solved.ac/moonkey48)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)<br/>
