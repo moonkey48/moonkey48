@@ -1,9 +1,8 @@
-<h1 align=center>
-  Query everyday
-</h1> 
-<h3 align=center>
-   Hello, I'm Seungui Moon
-</h3>
+<div align=center>
+  # Query everyday
+  ###  Hello, I'm Seungui Moon
+</div> 
+
 
 <h2 align=center>
   🔫 Skills
