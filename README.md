@@ -4,7 +4,7 @@
 ### Hello, I'm Seungui Moon  
     
   
-</div> 
+
 
 
 
@@ -29,20 +29,17 @@
 <h2 align=center>
   💡 Algorithm
 </h2> 
-<div align=center>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
-  
-</div>
 
 
 
-<h2 align=center>
-  📜 Github Status  
-</h2>
 
-<div align=center>
-  
+
+### 📜Github Status  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonkey48)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+  
+</div> 
