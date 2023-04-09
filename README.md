@@ -15,3 +15,5 @@ have a nice day 🙌
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonkey48)](https://github.com/anuraghazra/github-readme-stats)
