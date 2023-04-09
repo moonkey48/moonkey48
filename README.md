@@ -24,8 +24,11 @@
 <h2 align=center>
   📖 Algorithm
 </h2> 
+<div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
+  
+</div>
 
 <br/>
 
