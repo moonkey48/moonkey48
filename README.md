@@ -7,10 +7,12 @@
 </div> 
 
 
-<h2 align=center>
-  🔫 Skills
-</h2> 
+
+
+
 <div align=center>
+  ### 🔫 Skills
+  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
