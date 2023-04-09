@@ -1,5 +1,9 @@
-## Query everyday
-#### Hello, I'm Seungui Moon
+<h1 align=center>
+  Query everyday
+</h1> 
+<h3 align=center>
+   Hello, I'm Seungui Moon
+</h3>
 
 ### 📖 Skills
 <div align=center>
@@ -17,11 +21,14 @@
 
 <br/>
 
-### 📖 Algorithm
+<h2 align=center>
+  📖 Algorithm
+</h2> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
 <br/>
 
-
-### 📖 Github Status
+<h2 align=center>
+  📖 Github Status  
+</h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonkey48)](https://github.com/anuraghazra/github-readme-stats)
 
