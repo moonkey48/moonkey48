@@ -12,17 +12,16 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=white"/>
 </div>
-<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonkey48&&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <br/>
 
 ### 📖 Algorithm
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
+<br/>
 
 
 ### 📖 Github Status
-<div align=center>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonkey48)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonkey48)](https://github.com/anuraghazra/github-readme-stats)
+
