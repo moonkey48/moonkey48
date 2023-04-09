@@ -5,7 +5,9 @@
    Hello, I'm Seungui Moon
 </h3>
 
-### 📖 Skills
+<h2 align=center>
+  🔫 Skills
+</h2> 
 <div align=center>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -19,10 +21,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonkey48&&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+
 
 <h2 align=center>
-  📖 Algorithm
+  💡 Algorithm
 </h2> 
 <div align=center>
 
@@ -30,11 +32,14 @@
   
 </div>
 
-<br/>
 
 
 <h2 align=center>
-  📖 Github Status  
+  📜 Github Status  
 </h2>
+
+<div align=center>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonkey48)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
