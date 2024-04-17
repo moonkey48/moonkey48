@@ -24,15 +24,9 @@
 
 <br/><br/>
 
-### 💡 Algorithm
-<br/>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gogo4905)](https://solved.ac/gogo4905)
 
 <br/><br/>
 
-### CodeTree
-[![](https://banner.codetree.ai/v1/banner/gogo4905)](https://www.codetree.ai/profiles/gogo4905)
 
 ### 📜Github Status  
 <br/>
