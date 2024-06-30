@@ -19,11 +19,11 @@ Swift became a legend, known as the Guardian of the Skies. His tale was passed d
 
 ## Projects
 
-|project|Language|Status|
-| --------------------------------------- | ------------------------------------- | ------------------------------------- |
-|BlackDog(Private) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; |
-|[Outline](https://github.com/BostonGosari/Outline)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; |
-|[운기조식運氣調息](https://github.com/moonkey48/WuxiaMeditation)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; |
-|Checking(Private)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; |
-|[TuneSpot](https://github.com/moonkey48/MC3-Team11-BeyondThe3F)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Completion &nbsp; &nbsp; &nbsp; |
+|project|Language|Status|App Store|
+| --------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
+|BlackDog(Private) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Preparing 🏭 &nbsp; &nbsp; &nbsp; |
+|[Outline](https://github.com/BostonGosari/Outline)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [Outline](https://apps.apple.com/kr/app/outline-%EC%95%84%EC%9B%83%EB%9D%BC%EC%9D%B8-gps-art-%EC%95%B1/id6471041315) &nbsp; &nbsp; &nbsp; |
+|[운기조식運氣調息](https://github.com/moonkey48/WuxiaMeditation)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [운기조식](https://apps.apple.com/kr/app/%EC%9A%B4%EA%B8%B0%EC%A1%B0%EC%8B%9D/id6504757296) &nbsp; &nbsp; &nbsp; |
+|Checking(Private)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [Checking](https://apps.apple.com/kr/app/check-ing/id6445873342) &nbsp; &nbsp; &nbsp; |
+|[TuneSpot](https://github.com/moonkey48/MC3-Team11-BeyondThe3F)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Completion &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [Tune Spot](https://apps.apple.com/kr/app/tune-spot/id6455374106) &nbsp; &nbsp; &nbsp; |
 
